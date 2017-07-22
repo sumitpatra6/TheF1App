@@ -1,0 +1,22 @@
+{
+  "name": "TheF1App",
+  "authors": [
+    "sumitpatra6@gmail.com <sumitpatra6@gmail.com>"
+  ],
+  "description": "Experimental Formula 1 Application.",
+  "main": "Index.html",
+  "keywords": [
+    "F1",
+    "Formula",
+    "1"
+  ],
+  "license": "MIT",
+  "homepage": "Index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

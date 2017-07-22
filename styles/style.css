@@ -1,0 +1,11 @@
+#imageCarousel{
+    min-height:300px;
+    padding-top: 5%;
+    background-image:url(../images/2.jpg);
+    opacity:0.5;
+    background-size: cover;
+}
+
+p{
+    font-size: 30px;
+}
